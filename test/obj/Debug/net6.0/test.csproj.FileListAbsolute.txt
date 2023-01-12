@@ -1,0 +1,15 @@
+/var/www/leetcode/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/var/www/leetcode/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/leetcode/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/var/www/leetcode/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/var/www/leetcode/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/var/www/leetcode/test/bin/Debug/net6.0/test
+/var/www/leetcode/test/bin/Debug/net6.0/test.deps.json
+/var/www/leetcode/test/bin/Debug/net6.0/test.runtimeconfig.json
+/var/www/leetcode/test/bin/Debug/net6.0/test.dll
+/var/www/leetcode/test/bin/Debug/net6.0/ref/test.dll
+/var/www/leetcode/test/bin/Debug/net6.0/test.pdb
+/var/www/leetcode/test/obj/Debug/net6.0/test.dll
+/var/www/leetcode/test/obj/Debug/net6.0/ref/test.dll
+/var/www/leetcode/test/obj/Debug/net6.0/test.pdb
+/var/www/leetcode/test/obj/Debug/net6.0/test.genruntimeconfig.cache
