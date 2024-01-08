@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddTwoNumbers/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddTwoNumbers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddTwoNumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPolyndromicSubstring/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPolyndromicSubstring/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestSubstringProblem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestSubstringProblem/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedianOfTwoSortedArrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedianOfTwoSortedArrays/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZigZagConversion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZigZagConversion/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,8 +146,17 @@
       <updated>1703924494138</updated>
       <workItem from="1704495817422" duration="4926000" />
       <workItem from="1704539645896" duration="69000" />
-      <workItem from="1704733417293" duration="7346000" />
+      <workItem from="1704733417293" duration="7662000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1704744067267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704744067267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +172,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
