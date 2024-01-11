@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="initial commit" />
+    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Anagram/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Anagram/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContainsDuplicate/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseInteger/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPalindrome/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZigZagConversion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZigZagConversion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZigZagConversion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZigZagConversion/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +37,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -42,7 +56,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anagram.Main.executor": "Run",
+    "Application.ContainsDuplicate.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ValidPalindrome.Main.executor": "Run",
     "Application.ZigZagConversion.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -59,13 +76,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ZigZagConversion.Main">
-    <configuration name="LongestPolyndromicSubstring.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestPolyndromicSubstring.Main" />
+  <component name="RunManager" selected="Application.ValidPalindrome.Main">
+    <configuration name="Anagram.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagram.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LongestPolyndromicSubstring.*" />
+          <option name="PATTERN" value="Anagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringProblem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubstringProblem.Main" />
+    <configuration name="ContainsDuplicate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContainsDuplicate.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LongestSubstringProblem.*" />
+          <option name="PATTERN" value="ContainsDuplicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianOfTwoSortedArrays.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MedianOfTwoSortedArrays.Main" />
+    <configuration name="ValidPalindrome.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidPalindrome.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MedianOfTwoSortedArrays.*" />
+          <option name="PATTERN" value="ValidPalindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZigZagConversion.Main" />
+        <item itemvalue="Application.ValidPalindrome.Main" />
+        <item itemvalue="Application.Anagram.Main" />
+        <item itemvalue="Application.ContainsDuplicate.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LongestPolyndromicSubstring.Main" />
-        <item itemvalue="Application.MedianOfTwoSortedArrays.Main" />
-        <item itemvalue="Application.LongestSubstringProblem.Main" />
+        <item itemvalue="Application.ZigZagConversion.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +163,7 @@
       <updated>1703924494138</updated>
       <workItem from="1704495817422" duration="4926000" />
       <workItem from="1704539645896" duration="69000" />
-      <workItem from="1704733417293" duration="7662000" />
+      <workItem from="1704733417293" duration="29320000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -156,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704744067267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1704744229622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704744229622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
