@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="solved some more problems">
-      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedList/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopKFrequentElements/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopKFrequentElements/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniqueOccurrences/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UniqueOccurrences/Solution.java" afterDir="false" />
+    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="more problems">
+      <change afterPath="$PROJECT_DIR$/src/FindPlayersWithZeroOrOneLosses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindPlayersWithZeroOrOneLosses/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressionMatching/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressionMatching/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomantoInteger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomantoInteger/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,10 +55,12 @@
   "keyToString": {
     "Application.Anagram.Main.executor": "Run",
     "Application.ContainsDuplicate.Main.executor": "Run",
+    "Application.FindPlayersWithZeroOrOneLosses.Main.executor": "Run",
     "Application.GroupAnagrams.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ReverseInteger.Main.executor": "Run",
     "Application.ReverseLinkedList.Main.executor": "Run",
+    "Application.RomantoInteger.Main.executor": "Run",
     "Application.UniqueOccurrences.Main.executor": "Run",
     "Application.ValidPalindrome.Main.executor": "Run",
     "Application.ZigZagConversion.Main.executor": "Run",
@@ -68,7 +69,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mahri/leetcode",
+    "last_opened_file_path": "/home/mahri/IdeaProjects/traccar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,13 +79,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UniqueOccurrences.Main">
-    <configuration name="GroupAnagrams.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupAnagrams.Main" />
+  <component name="RunManager" selected="Application.RomantoInteger.Main">
+    <configuration name="FindPlayersWithZeroOrOneLosses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPlayersWithZeroOrOneLosses.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GroupAnagrams.*" />
+          <option name="PATTERN" value="FindPlayersWithZeroOrOneLosses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInteger.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInteger.Main" />
+    <configuration name="ReverseLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReverseInteger.*" />
+          <option name="PATTERN" value="ReverseLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedList.Main" />
+    <configuration name="RomantoInteger.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomantoInteger.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReverseLinkedList.*" />
+          <option name="PATTERN" value="RomantoInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RomantoInteger.Main" />
+        <item itemvalue="Application.FindPlayersWithZeroOrOneLosses.Main" />
         <item itemvalue="Application.UniqueOccurrences.Main" />
         <item itemvalue="Application.ReverseLinkedList.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ReverseInteger.Main" />
-        <item itemvalue="Application.GroupAnagrams.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,12 @@
       <workItem from="1704539645896" duration="69000" />
       <workItem from="1704733417293" duration="40035000" />
       <workItem from="1705425710185" duration="945000" />
-      <workItem from="1705466743256" duration="4914000" />
+      <workItem from="1705466743256" duration="5920000" />
+      <workItem from="1705523332450" duration="8000" />
+      <workItem from="1705599597845" duration="4679000" />
+      <workItem from="1705633659793" duration="601000" />
+      <workItem from="1705695115278" duration="2947000" />
+      <workItem from="1705955371137" duration="17569000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -207,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705270681083</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1705476529727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705476529727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +242,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="some other problems solved" />
     <MESSAGE value="solved some more problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved some more problems" />
+    <MESSAGE value="more problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="more problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
