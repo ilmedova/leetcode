@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/src/FindPlayersWithZeroOrOneLosses/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindPlayersWithZeroOrOneLosses/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegularExpressionMatching/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegularExpressionMatching/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RomantoInteger/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RomantoInteger/Solution.java" afterDir="false" />
+    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="solved some more problems">
+      <change afterPath="$PROJECT_DIR$/src/IntegerToRoman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerToRoman/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedListII/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseLinkedListII/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,34 +49,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Anagram.Main.executor": "Run",
-    "Application.ContainsDuplicate.Main.executor": "Run",
-    "Application.FindPlayersWithZeroOrOneLosses.Main.executor": "Run",
-    "Application.GroupAnagrams.Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ReverseInteger.Main.executor": "Run",
-    "Application.ReverseLinkedList.Main.executor": "Run",
-    "Application.RomantoInteger.Main.executor": "Run",
-    "Application.UniqueOccurrences.Main.executor": "Run",
-    "Application.ValidPalindrome.Main.executor": "Run",
-    "Application.ZigZagConversion.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mahri/IdeaProjects/traccar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "spring",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Anagram.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPlayersWithZeroOrOneLosses.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupAnagrams.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLinkedList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RomantoInteger.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueOccurrences.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindrome.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigZagConversion.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mahri/IdeaProjects/traccar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.RomantoInteger.Main">
     <configuration name="FindPlayersWithZeroOrOneLosses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindPlayersWithZeroOrOneLosses.Main" />
@@ -179,7 +177,8 @@
       <workItem from="1705599597845" duration="4679000" />
       <workItem from="1705633659793" duration="601000" />
       <workItem from="1705695115278" duration="2947000" />
-      <workItem from="1705955371137" duration="17569000" />
+      <workItem from="1705955371137" duration="18405000" />
+      <workItem from="1706301575646" duration="4104000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -221,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705476529727</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="solved some more problems">
+      <option name="closed" value="true" />
+      <created>1706292934529</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706292934529</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,9 +248,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="some other problems solved" />
-    <MESSAGE value="solved some more problems" />
     <MESSAGE value="more problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="more problems" />
+    <MESSAGE value="solved some more problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved some more problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
