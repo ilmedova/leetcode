@@ -13,15 +13,44 @@ public class Solution {
         h.put('D', 500);
         h.put('M', 1000);
         String result = "";
-        for(int i = 0; i < s.length(); i++){
-            if(i != s.length()-1 && h.get(s.charAt(i)) < h.get(s.charAt(i+1))){
-                result = result + h.get(s.charAt(i+1)) - h.get(s.charAt(i));
-                i++;
+        int count = 1;
+        while(num > 0){
+            int last = num%10;
+            if(count < 10){
+                if(last < 4){
+                    for(int i = 1; i <= last; i++){
+                        result+="I";
+                    }
+                }
+                if(last < 6){
+                    result+="V";
+                    for(int i = 5; i <= last;i++){
+                        result+="I";
+                    }
+                }
+                if(last < 9){
+                    for(int i = 5; i <= last; i++){
+                        result+="I";
+                    }
+                    result+="V";
+                }
+                if(last > 8){
+
+                }
             }
-            else{
-                result = result + h.get(s.charAt(i));
-            }
+
+
+            count*=10;
         }
+//        for(int i = 0; i < s.length(); i++){
+//            if(i != s.length()-1 && h.get(s.charAt(i)) < h.get(s.charAt(i+1))){
+//                result = result + h.get(s.charAt(i+1)) - h.get(s.charAt(i));
+//                i++;
+//            }
+//            else{
+//                result = result + h.get(s.charAt(i));
+//            }
+//        }
         return result;
     }
 }
