@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="ReverseLinkedListII">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BalancedBinaryTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BalancedBinaryTree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BalancedBinaryTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeastNumberOfUniqueIntegersAfterKRemovals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeastNumberOfUniqueIntegersAfterKRemovals/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MajorityElement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MajorityElement/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MissingNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum/Solution.java" afterDir="false" />
+    <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="Some more questions solved">
+      <change afterPath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteDuplicates/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteDuplicates/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteDuplicates/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntegerToRoman/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntegerToRoman/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +54,7 @@
   &quot;keyToString&quot;: {
     &quot;Application.Anagram.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.ContainsDuplicate.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteDuplicates.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindPlayersWithZeroOrOneLosses.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.GroupAnagrams.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -92,7 +83,25 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DeleteDuplicates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeleteDuplicates.Main">
+    <configuration name="DeleteDuplicates.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteDuplicates.Main" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DeleteDuplicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindPlayersWithZeroOrOneLosses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindPlayersWithZeroOrOneLosses.Main" />
       <module name="leetcode" />
@@ -145,26 +154,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueOccurrences.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniqueOccurrences.Main" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UniqueOccurrences.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteDuplicates.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TwoSum.Main" />
         <item itemvalue="Application.RomantoInteger.Main" />
         <item itemvalue="Application.FindPlayersWithZeroOrOneLosses.Main" />
-        <item itemvalue="Application.UniqueOccurrences.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +196,11 @@
       <workItem from="1708121205273" duration="4000" />
       <workItem from="1708392850762" duration="819000" />
       <workItem from="1708393819257" duration="6421000" />
-      <workItem from="1708570240325" duration="638000" />
+      <workItem from="1708570240325" duration="1856000" />
+      <workItem from="1708708123629" duration="1441000" />
+      <workItem from="1709065685015" duration="6000" />
+      <workItem from="1709142745886" duration="4410000" />
+      <workItem from="1709154917522" duration="2129000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -258,7 +258,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706308244872</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Some more questions solved">
+      <option name="closed" value="true" />
+      <created>1708648005512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708648005512</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +289,8 @@
     <MESSAGE value="more problems" />
     <MESSAGE value="solved some more problems" />
     <MESSAGE value="ReverseLinkedListII" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseLinkedListII" />
+    <MESSAGE value="Some more questions solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some more questions solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
