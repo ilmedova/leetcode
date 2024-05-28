@@ -5,12 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89c6a770-ef63-4629-9424-6859914866f5" name="Changes" comment="Some more questions solved">
-      <change afterPath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteDuplicates/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteDuplicates/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteDuplicates/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/1472. Design Browser History.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/AddTwoNumbers/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/AddTwoNumbers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/AddTwoNumbers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anagram/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/Anagram/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anagram/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/Anagram/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BalancedBinaryTree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/BalancedBinaryTree/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BalancedBinaryTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/BalancedBinaryTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BalancedBinaryTree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/BalancedBinaryTree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/BinaryTreeInorderTraversal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/BinaryTreeInorderTraversal/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeInorderTraversal/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/BinaryTreeInorderTraversal/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/CheapestFlightsWithinKStops/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheapestFlightsWithinKStops/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/CheapestFlightsWithinKStops/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContainsDuplicate/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ContainsDuplicate/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContainsDuplicate/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ContainsDuplicate/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteDuplicates/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/DeleteDuplicates/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteDuplicates/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/DeleteDuplicates/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeleteDuplicates/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/DeleteDuplicates/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindPlayersWithZeroOrOneLosses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/FindPlayersWithZeroOrOneLosses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindPlayersWithZeroOrOneLosses/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/FindPlayersWithZeroOrOneLosses/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupAnagrams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/GroupAnagrams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupAnagrams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/GroupAnagrams/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntegerToRoman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/IntegerToRoman/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntegerToRoman/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/IntegerToRoman/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeastNumberOfUniqueIntegersAfterKRemovals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/LeastNumberOfUniqueIntegersAfterKRemovals/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeastNumberOfUniqueIntegersAfterKRemovals/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/LeastNumberOfUniqueIntegersAfterKRemovals/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPolyndromicSubstring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/LongestPolyndromicSubstring/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPolyndromicSubstring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/LongestPolyndromicSubstring/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringProblem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/LongestSubstringProblem/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringProblem/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/LongestSubstringProblem/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MajorityElement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/MajorityElement/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MajorityElement/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/MajorityElement/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedianOfTwoSortedArrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/MedianOfTwoSortedArrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedianOfTwoSortedArrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/MedianOfTwoSortedArrays/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MissingNumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/MissingNumber/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegularExpressionMatching/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/RegularExpressionMatching/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegularExpressionMatching/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/RegularExpressionMatching/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseInteger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ReverseInteger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseInteger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ReverseInteger/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedList/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedList/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedListII/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedListII/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkedListII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedListII/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RomantoInteger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/RomantoInteger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RomantoInteger/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/RomantoInteger/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopKFrequentElements/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/TopKFrequentElements/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopKFrequentElements/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/TopKFrequentElements/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/TwoSum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/TwoSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UniqueOccurrences/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/UniqueOccurrences/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UniqueOccurrences/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/UniqueOccurrences/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidPalindrome/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ValidPalindrome/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ValidPalindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ValidPalindrome/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZigZagConversion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ZigZagConversion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZigZagConversion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_solutions/src/ZigZagConversion/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +78,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ilmedova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ilmedova/leetcode.git&quot;,
+    &quot;accountId&quot;: &quot;30ed80ab-9dfd-4f22-ac33-43311cc5454a&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -84,11 +151,14 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DeleteDuplicates" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeleteDuplicates.Main">
+  <component name="RunManager">
     <configuration name="DeleteDuplicates.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteDuplicates.Main" />
       <module name="leetcode" />
@@ -154,20 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.DeleteDuplicates.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TwoSum.Main" />
-        <item itemvalue="Application.RomantoInteger.Main" />
-        <item itemvalue="Application.FindPlayersWithZeroOrOneLosses.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-f4b396da" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -201,6 +263,8 @@
       <workItem from="1709065685015" duration="6000" />
       <workItem from="1709142745886" duration="4410000" />
       <workItem from="1709154917522" duration="2129000" />
+      <workItem from="1715225243093" duration="4430000" />
+      <workItem from="1715492779862" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -291,16 +355,6 @@
     <MESSAGE value="ReverseLinkedListII" />
     <MESSAGE value="Some more questions solved" />
     <option name="LAST_COMMIT_MESSAGE" value="Some more questions solved" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.NumberFormatException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
