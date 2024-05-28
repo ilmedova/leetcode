@@ -4,92 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/1700.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/1929.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/225.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/509.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/682.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/70.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/707.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/912.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="added some solutions in python">
+      <change afterPath="$PROJECT_DIR$/python_solutions/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/374.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/704.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/AddTwoNumbers/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/AddTwoNumbers/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/AddTwoNumbers/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/Anagram/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/Anagram/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/BalancedBinaryTree/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/BalancedBinaryTree/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/BalancedBinaryTree/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/BinaryTreeInorderTraversal/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/BinaryTreeInorderTraversal/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/BinaryTreeInorderTraversal/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/CheapestFlightsWithinKStops/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/CheapestFlightsWithinKStops/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ContainsDuplicate/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ContainsDuplicate/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/DeleteDuplicates/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/DeleteDuplicates/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/DeleteDuplicates/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/FindPlayersWithZeroOrOneLosses/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/FindPlayersWithZeroOrOneLosses/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/GroupAnagrams/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/GroupAnagrams/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/IntegerToRoman/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/IntegerToRoman/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/LeastNumberOfUniqueIntegersAfterKRemovals/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/LeastNumberOfUniqueIntegersAfterKRemovals/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/LongestPolyndromicSubstring/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/LongestPolyndromicSubstring/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/LongestSubstringProblem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/LongestSubstringProblem/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/MajorityElement/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/MajorityElement/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/MedianOfTwoSortedArrays/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/MedianOfTwoSortedArrays/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/MissingNumber/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/RegularExpressionMatching/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/RegularExpressionMatching/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ReverseInteger/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ReverseInteger/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedList/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedList/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedList/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedListII/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ReverseLinkedListII/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/RomantoInteger/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/RomantoInteger/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/TopKFrequentElements/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/TopKFrequentElements/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/TwoSum/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/TwoSum/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/UniqueOccurrences/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/UniqueOccurrences/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ValidPalindrome/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ValidPalindrome/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ZigZagConversion/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_solutions/src/ZigZagConversion/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_solutions/1472. Design Browser History.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_solutions/1472.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,11 +77,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716935157800</updated>
-      <workItem from="1716935158816" duration="1430000" />
+      <workItem from="1716935158816" duration="2682000" />
     </task>
+    <task id="LOCAL-00001" summary="added some solutions in python">
+      <option name="closed" value="true" />
+      <created>1716937510971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716937510971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added some solutions in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some solutions in python" />
   </component>
 </project>
