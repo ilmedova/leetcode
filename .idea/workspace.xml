@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="added some solutions in python">
-      <change afterPath="$PROJECT_DIR$/python_solutions/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/189.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/215.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/374.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/704.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/74.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/8.py" afterDir="false" />
+    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="added some solutions">
+      <change afterPath="$PROJECT_DIR$/python_solutions/700.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/701.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716935157800</updated>
-      <workItem from="1716935158816" duration="2682000" />
+      <workItem from="1716935158816" duration="3494000" />
     </task>
     <task id="LOCAL-00001" summary="added some solutions in python">
       <option name="closed" value="true" />
@@ -87,7 +77,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716937510971</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added some solutions">
+      <option name="closed" value="true" />
+      <created>1716938138435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716938138435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added some solutions">
+      <option name="closed" value="true" />
+      <created>1716938148219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716938148219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added some solutions in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some solutions in python" />
+    <MESSAGE value="added some solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some solutions" />
   </component>
 </project>
