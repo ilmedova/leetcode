@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="700, 701">
-      <change afterPath="$PROJECT_DIR$/python_solutions/226.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/450.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/875.py" afterDir="false" />
+    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="226, 450, 875">
+      <change afterPath="$PROJECT_DIR$/python_solutions/104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/3005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/94.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716935157800</updated>
       <workItem from="1716935158816" duration="8178000" />
-      <workItem from="1717222498036" duration="64000" />
+      <workItem from="1717222498036" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="added some solutions in python">
       <option name="closed" value="true" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717015730387</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="226, 450, 875">
+      <option name="closed" value="true" />
+      <created>1717222584823</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717222584823</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
     <MESSAGE value="added some solutions in python" />
     <MESSAGE value="added some solutions" />
     <MESSAGE value="700, 701" />
-    <option name="LAST_COMMIT_MESSAGE" value="700, 701" />
+    <MESSAGE value="226, 450, 875" />
+    <option name="LAST_COMMIT_MESSAGE" value="226, 450, 875" />
   </component>
 </project>
