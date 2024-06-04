@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="226, 450, 875">
-      <change afterPath="$PROJECT_DIR$/python_solutions/104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/3005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_solutions/94.py" afterDir="false" />
+    <list default="true" id="8d4788d5-093f-4557-a4d2-32b17f95fb28" name="Changes" comment="94, 104, 3005">
+      <change afterPath="$PROJECT_DIR$/python_solutions/2486.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/409.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/426.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_solutions/938.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,9 @@
       <option name="presentableId" value="Default" />
       <updated>1716935157800</updated>
       <workItem from="1716935158816" duration="8178000" />
-      <workItem from="1717222498036" duration="1790000" />
+      <workItem from="1717222498036" duration="12257000" />
+      <workItem from="1717488685596" duration="5000" />
+      <workItem from="1717541908022" duration="130000" />
     </task>
     <task id="LOCAL-00001" summary="added some solutions in python">
       <option name="closed" value="true" />
@@ -111,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717222584823</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="94, 104, 3005">
+      <option name="closed" value="true" />
+      <created>1717238238656</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717238238656</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +133,7 @@
     <MESSAGE value="added some solutions" />
     <MESSAGE value="700, 701" />
     <MESSAGE value="226, 450, 875" />
-    <option name="LAST_COMMIT_MESSAGE" value="226, 450, 875" />
+    <MESSAGE value="94, 104, 3005" />
+    <option name="LAST_COMMIT_MESSAGE" value="94, 104, 3005" />
   </component>
 </project>
